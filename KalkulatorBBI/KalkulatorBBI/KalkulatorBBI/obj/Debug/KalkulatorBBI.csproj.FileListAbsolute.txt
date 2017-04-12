@@ -1,0 +1,16 @@
+E:\Cross-Platform\Research\KalkulatorBBI\KalkulatorBBI\KalkulatorBBI\bin\Debug\KalkulatorBBI.dll
+E:\Cross-Platform\Research\KalkulatorBBI\KalkulatorBBI\KalkulatorBBI\bin\Debug\KalkulatorBBI.pdb
+E:\Cross-Platform\Research\KalkulatorBBI\KalkulatorBBI\KalkulatorBBI\bin\Debug\Xamarin.Forms.Core.dll
+E:\Cross-Platform\Research\KalkulatorBBI\KalkulatorBBI\KalkulatorBBI\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Cross-Platform\Research\KalkulatorBBI\KalkulatorBBI\KalkulatorBBI\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Cross-Platform\Research\KalkulatorBBI\KalkulatorBBI\KalkulatorBBI\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Cross-Platform\Research\KalkulatorBBI\KalkulatorBBI\KalkulatorBBI\bin\Debug\Xamarin.Forms.Core.xml
+E:\Cross-Platform\Research\KalkulatorBBI\KalkulatorBBI\KalkulatorBBI\bin\Debug\Xamarin.Forms.Platform.pdb
+E:\Cross-Platform\Research\KalkulatorBBI\KalkulatorBBI\KalkulatorBBI\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Cross-Platform\Research\KalkulatorBBI\KalkulatorBBI\KalkulatorBBI\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Cross-Platform\Research\KalkulatorBBI\KalkulatorBBI\KalkulatorBBI\obj\Debug\KalkulatorBBI.App.xaml.g.cs
+E:\Cross-Platform\Research\KalkulatorBBI\KalkulatorBBI\KalkulatorBBI\obj\Debug\KalkulatorBBI.View.KBBIPage.xaml.g.cs
+E:\Cross-Platform\Research\KalkulatorBBI\KalkulatorBBI\KalkulatorBBI\obj\Debug\KalkulatorBBI.dll
+E:\Cross-Platform\Research\KalkulatorBBI\KalkulatorBBI\KalkulatorBBI\obj\Debug\KalkulatorBBI.pdb
+E:\Cross-Platform\Research\KalkulatorBBI\KalkulatorBBI\KalkulatorBBI\obj\Debug\KalkulatorBBI.dll.mdb
+E:\Cross-Platform\Research\KalkulatorBBI\KalkulatorBBI\KalkulatorBBI\bin\Debug\KalkulatorBBI.dll.mdb

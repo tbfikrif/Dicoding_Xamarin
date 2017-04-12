@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="KalkulatorBBI.View.KBBIPage"
+             Title="Kalkulator Berat Ideal">
+    <StackLayout Orientation="Vertical" Padding="2">
+        <Label Text="Tinggi Badan"
+               HorizontalOptions="Center"
+               FontAttributes="Bold"
+               FontSize="24"/>
+        <Entry x:Name="entTB"
+               Placeholder="Masukkan tinggi badan (satuan cm)"
+               Keyboard="Numeric"/>
+        <Label Text="Berat Badan"
+               HorizontalOptions="Center"
+               FontAttributes="Bold"
+               FontSize="24"/>
+        <Entry x:Name="entBB"
+               Placeholder="Masukkan berat badan (satuan kg)"
+               Keyboard="Numeric"/>
+        <Button x:Name="btnHitungBBIL"
+                Text="HITUNG BERAT IDEAL LAKI-LAKI"/>
+        <Button x:Name="btnHitungBBIP"
+                Text="HITUNG BERAT IDEAL PEREMPUAN"/>
+        <Label Text="Berat Badan Ideal (Brocha) :"
+               FontAttributes="Bold"
+               FontSize="20"/>
+        <Entry x:Name="nilaiBrocha"
+               IsEnabled="False"/>
+        <Label Text="Nilai BMI :"
+               FontAttributes="Bold"
+               FontSize="20"/>
+        <Entry x:Name="nilaiBMI"
+               IsEnabled="False"/>
+        <Label Text="Kesimpulan :"
+               FontAttributes="Bold"
+               FontSize="20"/>
+        <Entry x:Name="kesimpulan"
+               IsEnabled="False"/>
+    </StackLayout>
+</ContentPage>
