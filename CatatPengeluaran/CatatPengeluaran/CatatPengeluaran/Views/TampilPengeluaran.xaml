@@ -22,7 +22,7 @@
                 <ColumnDefinition Width="10"/>
             </Grid.ColumnDefinitions>
 
-            <Label Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Text="Employee Details" />
+            <Label Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Text="Detail Pengeluaran" />
             <Label Grid.Row="1" Grid.Column="1" Text="Nama Transaksi" />
             <Label Grid.Row="1" Grid.Column="2" Text ="{Binding namaTransaksi}" />
             <Label Grid.Row="2" Grid.Column="1" Text="Biaya Transaksi" />

@@ -22,7 +22,7 @@ namespace CatatPengeluaran.Views {
         private global::Xamarin.Forms.EntryCell entBiayaPengeluaran;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
-        private global::Xamarin.Forms.DatePicker dpTglTransaksi;
+        private global::Xamarin.Forms.EntryCell entTanggalPengeluaran;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::Xamarin.Forms.EntryCell entInfoPengeluaran;
@@ -32,7 +32,7 @@ namespace CatatPengeluaran.Views {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(EditPengeluaran));
             entNamaPengeluaran = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.EntryCell>(this, "entNamaPengeluaran");
             entBiayaPengeluaran = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.EntryCell>(this, "entBiayaPengeluaran");
-            dpTglTransaksi = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.DatePicker>(this, "dpTglTransaksi");
+            entTanggalPengeluaran = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.EntryCell>(this, "entTanggalPengeluaran");
             entInfoPengeluaran = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.EntryCell>(this, "entInfoPengeluaran");
         }
     }

@@ -25,10 +25,15 @@ namespace CatatPengeluaran.Views
         {
             mPilihPengeluaran.namaTransaksi = entNamaPengeluaran.Text;
             mPilihPengeluaran.biayaPengeluaran = Convert.ToDouble(entBiayaPengeluaran.Text);
-            mPilihPengeluaran.tanggalPengeluaran = dpTglTransaksi.Date;
+            mPilihPengeluaran.tanggalPengeluaran = entTanggalPengeluaran.Text;
             mPilihPengeluaran.infoPengeluaran = entInfoPengeluaran.Text;
             App.DBUtils.EditPengeluaran(mPilihPengeluaran);
             Navigation.PushAsync(new AturPengeluaran());
+            var existingPage = Navigation.NavigationStack.ToList();
+            foreach (var pages in existingPage)
+            {
+                Navigation.RemovePage(pages);
+            }
         }
     }
 }

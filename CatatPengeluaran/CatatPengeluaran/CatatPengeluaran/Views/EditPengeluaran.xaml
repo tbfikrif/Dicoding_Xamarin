@@ -9,7 +9,7 @@
                 <TableSection Title="Edit Pengeluaran">
                     <EntryCell x:Name="entNamaPengeluaran" Label="Nama Pengeluaran" Text="{Binding namaTransaksi}" Keyboard="Text"/>
                     <EntryCell x:Name="entBiayaPengeluaran" Label="Biaya Pengeluaran" Text="{Binding biayaPengeluaran}" Keyboard="Text"/>
-                    <DatePicker x:Name="dpTglTransaksi" Date="{Binding tanggalPengeluaran}"/>
+                    <EntryCell x:Name="entTanggalPengeluaran" Label="Tanggal Pengeluaran" Text="{Binding tanggalPengeluaran}" IsEnabled="False"/>
                     <EntryCell x:Name="entInfoPengeluaran" Label="Nama Pengeluaran" Text="{Binding infoPengeluaran}" Keyboard="Text"/>
                     <ViewCell>
                         <ContentView Padding="0,0">

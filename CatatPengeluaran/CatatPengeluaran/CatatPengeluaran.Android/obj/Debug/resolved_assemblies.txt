@@ -30,11 +30,11 @@ E:\Cross-Platform\Research\Tugas_Dicoding_Xamarin\CatatPengeluaran\CatatPengelua
 E:\Cross-Platform\Research\Tugas_Dicoding_Xamarin\CatatPengeluaran\CatatPengeluaran\CatatPengeluaran.Android\obj\Debug\android\assets\System.Diagnostics.Debug.dll
 E:\Cross-Platform\Research\Tugas_Dicoding_Xamarin\CatatPengeluaran\CatatPengeluaran\CatatPengeluaran.Android\obj\Debug\android\assets\System.Threading.Tasks.dll
 E:\Cross-Platform\Research\Tugas_Dicoding_Xamarin\CatatPengeluaran\CatatPengeluaran\CatatPengeluaran.Android\obj\Debug\android\assets\System.Runtime.Extensions.dll
+E:\Cross-Platform\Research\Tugas_Dicoding_Xamarin\CatatPengeluaran\CatatPengeluaran\CatatPengeluaran.Android\obj\Debug\android\assets\System.Linq.dll
 E:\Cross-Platform\Research\Tugas_Dicoding_Xamarin\CatatPengeluaran\CatatPengeluaran\CatatPengeluaran.Android\obj\Debug\android\assets\System.ComponentModel.dll
 E:\Cross-Platform\Research\Tugas_Dicoding_Xamarin\CatatPengeluaran\CatatPengeluaran\CatatPengeluaran.Android\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
 E:\Cross-Platform\Research\Tugas_Dicoding_Xamarin\CatatPengeluaran\CatatPengeluaran\CatatPengeluaran.Android\obj\Debug\android\assets\System.Reflection.dll
 E:\Cross-Platform\Research\Tugas_Dicoding_Xamarin\CatatPengeluaran\CatatPengeluaran\CatatPengeluaran.Android\obj\Debug\android\assets\System.Linq.Expressions.dll
-E:\Cross-Platform\Research\Tugas_Dicoding_Xamarin\CatatPengeluaran\CatatPengeluaran\CatatPengeluaran.Android\obj\Debug\android\assets\System.Linq.dll
 E:\Cross-Platform\Research\Tugas_Dicoding_Xamarin\CatatPengeluaran\CatatPengeluaran\CatatPengeluaran.Android\obj\Debug\android\assets\System.Reflection.Extensions.dll
 E:\Cross-Platform\Research\Tugas_Dicoding_Xamarin\CatatPengeluaran\CatatPengeluaran\CatatPengeluaran.Android\obj\Debug\android\assets\System.Globalization.dll
 E:\Cross-Platform\Research\Tugas_Dicoding_Xamarin\CatatPengeluaran\CatatPengeluaran\CatatPengeluaran.Android\obj\Debug\android\assets\System.Threading.dll

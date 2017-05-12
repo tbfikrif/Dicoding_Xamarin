@@ -9,32 +9,31 @@
 //------------------------------------------------------------------------------
 
 namespace CatatPengeluaran.Views {
-    using System;
-    using Xamarin.Forms;
-    using Xamarin.Forms.Xaml;
     
     
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("E:\\Cross-Platform\\Research\\Tugas_Dicoding_Xamarin\\CatatPengeluaran\\CatatPengeluar" +
+        "an\\CatatPengeluaran\\Views\\TambahPengeluaran.xaml")]
     public partial class TambahPengeluaran : global::Xamarin.Forms.ContentPage {
         
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::Xamarin.Forms.EntryCell entNamaTransaksi;
         
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::Xamarin.Forms.EntryCell entBiayaTransaksi;
         
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
-        private global::Xamarin.Forms.DatePicker dpTglTransaksi;
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.EntryCell entTanggalTransaksi;
         
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::Xamarin.Forms.EntryCell entInfoTransaksi;
         
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
-            this.LoadFromXaml(typeof(TambahPengeluaran));
-            entNamaTransaksi = this.FindByName<global::Xamarin.Forms.EntryCell>("entNamaTransaksi");
-            entBiayaTransaksi = this.FindByName<global::Xamarin.Forms.EntryCell>("entBiayaTransaksi");
-            dpTglTransaksi = this.FindByName<global::Xamarin.Forms.DatePicker>("dpTglTransaksi");
-            entInfoTransaksi = this.FindByName<global::Xamarin.Forms.EntryCell>("entInfoTransaksi");
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(TambahPengeluaran));
+            entNamaTransaksi = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.EntryCell>(this, "entNamaTransaksi");
+            entBiayaTransaksi = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.EntryCell>(this, "entBiayaTransaksi");
+            entTanggalTransaksi = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.EntryCell>(this, "entTanggalTransaksi");
+            entInfoTransaksi = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.EntryCell>(this, "entInfoTransaksi");
         }
     }
 }
