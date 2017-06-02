@@ -5,7 +5,7 @@ using System.Text;
 
 using Xamarin.Forms;
 using CatatPengeluaran.Accesses;
-using CatatPengeluaran.Views;
+using CatatPengeluaran.View;
 
 namespace CatatPengeluaran
 {

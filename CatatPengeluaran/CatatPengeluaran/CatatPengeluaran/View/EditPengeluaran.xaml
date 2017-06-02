@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="CatatPengeluaran.View.EditPengeluaran" Title="Edit Transaction">
+    <StackLayout>
+        <TableView Intent="Settings" BackgroundColor="White">
+            <TableRoot>
+                <TableSection Title="Edit Expense">
+                    <EntryCell x:Name="entNamaPengeluaran" Label="Expense Name" Text="{Binding namaTransaksi}" Keyboard="Text" />
+                    <EntryCell x:Name="entBiayaPengeluaran" Label="Expense Cost" Text="{Binding biayaPengeluaran}" Keyboard="Text" />
+                    <EntryCell x:Name="entTanggalPengeluaran" Label="Expense Date" Text="{Binding tanggalPengeluaran}" IsEnabled="False" />
+                    <EntryCell x:Name="entInfoPengeluaran" Label="Expense Info" Text="{Binding infoPengeluaran}" Keyboard="Text" />
+                    <ViewCell>
+                        <ContentView Padding="0,0">
+                            <ContentView.Padding>
+                                <OnPlatform x:TypeArguments="Thickness" iOS="10,0" WinPhone="0,15,0,0" />
+                            </ContentView.Padding>
+                            <ContentView.Content>
+                                <Button Margin="16,0,16,0" BackgroundColor="Blue" Text="Save" TextColor="White" Clicked="OnSaveClicked" />
+                            </ContentView.Content>
+                        </ContentView>
+                    </ViewCell>
+                </TableSection>
+            </TableRoot>
+        </TableView>
+    </StackLayout>
+</ContentPage>

@@ -2,19 +2,19 @@
 <Paths>
   <Jars></Jars>
   <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>E:\Cross-Platform\Research\Tugas_Dicoding_Xamarin\CatatPengeluaran\CatatPengeluaran\CatatPengeluaran.Android\obj\Debug\__library_projects__\SQLite.Net.Platform.XamarinAndroid\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>E:\Cross-Platform\Research\Tugas_Dicoding_Xamarin\CatatPengeluaran\CatatPengeluaran\CatatPengeluaran.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>E:\Cross-Platform\Research\Tugas_Dicoding_Xamarin\CatatPengeluaran\CatatPengeluaran\CatatPengeluaran.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/mochadwi/Documents/learn/college/portfolio/student_license/msp/challenge_2018/Latihan1/Fikri/CatatPengeluaran/CatatPengeluaran/CatatPengeluaran.Android/obj/Debug/__library_projects__/SQLite.Net.Platform.XamarinAndroid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/mochadwi/Documents/learn/college/portfolio/student_license/msp/challenge_2018/Latihan1/Fikri/CatatPengeluaran/CatatPengeluaran/CatatPengeluaran.Android/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/mochadwi/Documents/learn/college/portfolio/student_license/msp/challenge_2018/Latihan1/Fikri/CatatPengeluaran/CatatPengeluaran/CatatPengeluaran.Android/obj/Debug/__library_projects__/Xamarin.Forms.Platform/library_project_imports/res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
-    <ResolvedAssetDirectory>obj\Debug\__library_projects__\SQLite.Net.Platform.XamarinAndroid\library_project_imports\assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/SQLite.Net.Platform.XamarinAndroid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Xamarin.Forms.Platform/library_project_imports/assets</ResolvedAssetDirectory>
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>E:\Cross-Platform\Research\Tugas_Dicoding_Xamarin\CatatPengeluaran\CatatPengeluaran\CatatPengeluaran.Android\obj\Debug\__library_projects__\SQLite.Net.Platform.XamarinAndroid.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>E:\Cross-Platform\Research\Tugas_Dicoding_Xamarin\CatatPengeluaran\CatatPengeluaran\CatatPengeluaran.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>E:\Cross-Platform\Research\Tugas_Dicoding_Xamarin\CatatPengeluaran\CatatPengeluaran\CatatPengeluaran.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/mochadwi/Documents/learn/college/portfolio/student_license/msp/challenge_2018/Latihan1/Fikri/CatatPengeluaran/CatatPengeluaran/CatatPengeluaran.Android/obj/Debug/__library_projects__/SQLite.Net.Platform.XamarinAndroid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/mochadwi/Documents/learn/college/portfolio/student_license/msp/challenge_2018/Latihan1/Fikri/CatatPengeluaran/CatatPengeluaran/CatatPengeluaran.Android/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/mochadwi/Documents/learn/college/portfolio/student_license/msp/challenge_2018/Latihan1/Fikri/CatatPengeluaran/CatatPengeluaran/CatatPengeluaran.Android/obj/Debug/__library_projects__/Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>

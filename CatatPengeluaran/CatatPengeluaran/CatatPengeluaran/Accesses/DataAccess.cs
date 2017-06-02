@@ -24,6 +24,11 @@ namespace CatatPengeluaran.Accesses
             return dbConn.Query<Pengeluaran>("Select * From [Pengeluaran]");
         }
 
+        //public double GetTotalExpense()
+        //{
+            //return dbConn.Query<Pengeluaran>("SELECT totalPengeluaran FROM [Pengeluaran]");
+        //}
+
         public int SimpanPengeluaran(Pengeluaran pengeluaran)
         {
             return dbConn.Insert(pengeluaran);
