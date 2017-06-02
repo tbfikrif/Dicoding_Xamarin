@@ -141,7 +141,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CatatPengeluaran\CatatPengeluaran.csproj">
-      <Project>{272ad864-6b03-4377-8643-1a57b4bec40c}</Project>
+      <Project>{69DAAB1A-5EB5-4117-98EC-BE1DE8015851}</Project>
       <Name>CatatPengeluaran</Name>
     </ProjectReference>
   </ItemGroup>
