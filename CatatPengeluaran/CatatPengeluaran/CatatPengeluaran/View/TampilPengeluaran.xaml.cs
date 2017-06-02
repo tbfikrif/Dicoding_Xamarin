@@ -38,7 +38,12 @@ namespace CatatPengeluaran.View
             {
                 App.DBUtils.HapusPengeluaran(mPengeluaran);
             }
-            await Navigation.PopAsync(true);
+            await Navigation.PushAsync(new AturPengeluaran());
+			var existingPage = Navigation.NavigationStack.ToList();
+			foreach (var pages in existingPage)
+			{
+				Navigation.RemovePage(pages);
+			}
         }
     }
 }
