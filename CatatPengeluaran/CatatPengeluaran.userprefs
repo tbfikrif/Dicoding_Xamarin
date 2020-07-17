@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B93ED1FA-8D5D-4DA5-8DF7-98A69639C844}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CatatPengeluaran/CatatPengeluaran/App.xaml.cs">
+    <Files>
+      <File FileName="CatatPengeluaran/CatatPengeluaran/View/AturPengeluaran.xaml" Line="36" Column="51" />
+      <File FileName="CatatPengeluaran/CatatPengeluaran/View/AturPengeluaran.xaml.cs" Line="45" Column="48" />
+      <File FileName="CatatPengeluaran/CatatPengeluaran/View/TambahPengeluaran.xaml" Line="18" Column="143" />
+      <File FileName="CatatPengeluaran/CatatPengeluaran/View/TambahPengeluaran.xaml.cs" Line="43" Column="17" />
+      <File FileName="CatatPengeluaran/CatatPengeluaran/View/TampilPengeluaran.xaml.cs" Line="36" Column="13" />
+      <File FileName="CatatPengeluaran/CatatPengeluaran/View/TampilPengeluaran.xaml" Line="30" Column="130" />
+      <File FileName="CatatPengeluaran/CatatPengeluaran/View/EditPengeluaran.xaml" Line="2" Column="186" />
+      <File FileName="CatatPengeluaran/CatatPengeluaran/Accesses/DataAccess.cs" Line="22" Column="34" />
+      <File FileName="CatatPengeluaran/CatatPengeluaran/Models/Pengeluaran.cs" Line="10" Column="18" />
+      <File FileName="CatatPengeluaran/CatatPengeluaran/App.xaml.cs" Line="8" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CatatPengeluaran.Android PreferredExecutionTarget="Android.192.168.58.101:5555" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mochadwi/Documents/learn/college/portfolio/student_license/msp/challenge_2018/Latihan1/Fikri/CatatPengeluaran/CatatPengeluaran/CatatPengeluaran/View/TambahPengeluaran.xaml.cs" relfile="CatatPengeluaran/CatatPengeluaran/View/TambahPengeluaran.xaml.cs" line="44" column="13" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

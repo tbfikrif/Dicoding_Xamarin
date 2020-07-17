@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="CatatPengeluaran.View.AturPengeluaran" Title="Dashboard">
+    <StackLayout>
+        <ListView x:Name="listData" HasUnevenRows="False" Header="Header Value" Footer="Footer" ItemSelected="OnSelection">
+            <ListView.HeaderTemplate>
+                <DataTemplate>
+                    <StackLayout Orientation="Horizontal" BackgroundColor="Green" Padding="10">
+                        <Label HorizontalOptions="Start" Text="Transaction" FontSize="Medium" FontAttributes="Bold" TextColor="White" />
+                        <Label HorizontalOptions="CenterAndExpand" Text="Date" FontSize="Medium" FontAttributes="Bold" TextColor="White" />
+                        <Label HorizontalOptions="End" Text="Cost" FontSize="Medium" FontAttributes="Bold" TextColor="White" />
+                    </StackLayout>
+                </DataTemplate>
+            </ListView.HeaderTemplate>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal" Padding="10">
+                            <Label HorizontalOptions="Start" Text="{Binding namaTransaksi}" FontSize="Medium" />
+                            <Label HorizontalOptions="CenterAndExpand" Text="{Binding tanggalPengeluaran}" FontSize="Medium" />
+                            <Label HorizontalOptions="CenterAndExpand" Text="{Binding biayaPengeluaran}" FontSize="Medium" />
+                            <!--                            <Label HorizontalOptions="End" Text="{Binding totalPengeluaran}" FontSize="Medium" />-->
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+            <ListView.FooterTemplate>
+                <DataTemplate>
+                    <StackLayout Orientation="Horizontal" Padding="5,5,5,5" HorizontalOptions="Center" VerticalOptions="CenterAndExpand">
+                        <Button Text="Add new transaction" Clicked="OnNewClicked" TextColor="White" BackgroundColor="Blue" />
+                    </StackLayout>
+                </DataTemplate>
+            </ListView.FooterTemplate>
+        </ListView>
+        <StackLayout Orientation="Horizontal" VerticalOptions="End" BackgroundColor="Green" Padding="10">
+            <Label HorizontalOptions="Start" Text="Total" TextColor="White" FontSize="Medium" />
+            <Label HorizontalOptions="EndAndExpand" x:Name="lblbTotal" Text="" TextColor="White" FontSize="Medium" />
+        </StackLayout>
+    </StackLayout>
+</ContentPage>
